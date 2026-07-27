@@ -1,0 +1,43 @@
+name: Update portfolio prices
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # hourly, on the hour (UTC)
+  workflow_dispatch:        # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-prices
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run price engine
+        run: python engine.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "portfolio-bot"
+          git config user.email "actions@github.com"
+          git add data.json holdings.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update prices: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

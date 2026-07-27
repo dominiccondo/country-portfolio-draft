@@ -1,0 +1,407 @@
+{
+  "series": "Country Portfolio Draft",
+  "start_date": "2026-07-27",
+  "starting_capital": 100000,
+  "locked_at_utc": "2026-07-27T21:05:38+00:00",
+  "updated_at_utc": "2026-07-27T21:05:38+00:00",
+  "countries": [
+    {
+      "code": "KR",
+      "name": "Korea",
+      "exchange": "KRX",
+      "start_date": "2026-07-27",
+      "value_usd": 100000.0,
+      "cost_usd": 100000,
+      "gain_usd": 0.0,
+      "return_pct": 0.0,
+      "holdings": [
+        {
+          "bucket": "Tech",
+          "company": "Samsung Electronics",
+          "ticker": "005930.KS",
+          "currency": "KRW",
+          "shares": 115.4165,
+          "lock_price_usd": 173.2854,
+          "price_usd": 173.2854,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Boring",
+          "company": "Korea Electric (KEPCO)",
+          "ticker": "015760.KS",
+          "currency": "KRW",
+          "shares": 809.8288,
+          "lock_price_usd": 24.6966,
+          "price_usd": 24.6966,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Commodity",
+          "company": "Korea Zinc",
+          "ticker": "010130.KS",
+          "currency": "KRW",
+          "shares": 28.4896,
+          "lock_price_usd": 702.0105,
+          "price_usd": 702.0105,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Consumer",
+          "company": "HYBE",
+          "ticker": "352820.KS",
+          "currency": "KRW",
+          "shares": 130.2924,
+          "lock_price_usd": 153.5008,
+          "price_usd": 153.5008,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Banking",
+          "company": "KB Financial Group",
+          "ticker": "105560.KS",
+          "currency": "KRW",
+          "shares": 84.9241,
+          "lock_price_usd": 117.7522,
+          "price_usd": 117.7522,
+          "value_usd": 10000.0,
+          "cost_usd": 10000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Wildcard",
+          "company": "Hanwha Aerospace",
+          "ticker": "012450.KS",
+          "currency": "KRW",
+          "shares": 16.3047,
+          "lock_price_usd": 613.3211,
+          "price_usd": 613.3211,
+          "value_usd": 10000.0,
+          "cost_usd": 10000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-07-27T21:05:38+00:00",
+          "value_usd": 100000.0,
+          "return_pct": 0.0,
+          "pre": false
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "exchange": "Tadawul",
+      "start_date": "2026-07-27",
+      "value_usd": 100000.0,
+      "cost_usd": 100000,
+      "gain_usd": -0.0,
+      "return_pct": -0.0,
+      "holdings": [
+        {
+          "bucket": "Tech",
+          "company": "Elm Company",
+          "ticker": "7203.SR",
+          "currency": "SAR",
+          "shares": 111.9702,
+          "lock_price_usd": 178.619,
+          "price_usd": 178.619,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        },
+        {
+          "bucket": "Boring",
+          "company": "Saudi Telecom (stc)",
+          "ticker": "7010.SR",
+          "currency": "SAR",
+          "shares": 1733.0563,
+          "lock_price_usd": 11.5403,
+          "price_usd": 11.5403,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        },
+        {
+          "bucket": "Commodity",
+          "company": "Saudi Aramco",
+          "ticker": "2222.SR",
+          "currency": "SAR",
+          "shares": 2826.6566,
+          "lock_price_usd": 7.0755,
+          "price_usd": 7.0755,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        },
+        {
+          "bucket": "Consumer",
+          "company": "Almarai",
+          "ticker": "2280.SR",
+          "currency": "SAR",
+          "shares": 1629.2534,
+          "lock_price_usd": 12.2756,
+          "price_usd": 12.2756,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        },
+        {
+          "bucket": "Banking",
+          "company": "Al Rajhi Bank",
+          "ticker": "1120.SR",
+          "currency": "SAR",
+          "shares": 583.7947,
+          "lock_price_usd": 17.1293,
+          "price_usd": 17.1293,
+          "value_usd": 10000.0,
+          "cost_usd": 10000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        },
+        {
+          "bucket": "Wildcard",
+          "company": "ACWA Power",
+          "ticker": "2082.SR",
+          "currency": "SAR",
+          "shares": 195.4086,
+          "lock_price_usd": 51.1748,
+          "price_usd": 51.1748,
+          "value_usd": 10000.0,
+          "cost_usd": 10000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-07-27T21:05:38+00:00",
+          "value_usd": 100000.0,
+          "return_pct": -0.0,
+          "pre": false
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "exchange": "NSE",
+      "start_date": "2026-07-27",
+      "value_usd": 100000.0,
+      "cost_usd": 100000,
+      "gain_usd": 0.0,
+      "return_pct": 0.0,
+      "holdings": [
+        {
+          "bucket": "Tech",
+          "company": "Infosys",
+          "ticker": "INFY.NS",
+          "currency": "INR",
+          "shares": 1777.2424,
+          "lock_price_usd": 11.2534,
+          "price_usd": 11.2534,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Boring",
+          "company": "Larsen & Toubro",
+          "ticker": "LT.NS",
+          "currency": "INR",
+          "shares": 503.9412,
+          "lock_price_usd": 39.6872,
+          "price_usd": 39.6872,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Commodity",
+          "company": "Coal India",
+          "ticker": "COALINDIA.NS",
+          "currency": "INR",
+          "shares": 4486.5498,
+          "lock_price_usd": 4.4578,
+          "price_usd": 4.4578,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Consumer",
+          "company": "Titan Company",
+          "ticker": "TITAN.NS",
+          "currency": "INR",
+          "shares": 404.6328,
+          "lock_price_usd": 49.4275,
+          "price_usd": 49.4275,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Banking",
+          "company": "HDFC Bank",
+          "ticker": "HDFCBANK.NS",
+          "currency": "INR",
+          "shares": 1296.7345,
+          "lock_price_usd": 7.7117,
+          "price_usd": 7.7117,
+          "value_usd": 10000.0,
+          "cost_usd": 10000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Wildcard",
+          "company": "Eternal (Zomato)",
+          "ticker": "ETERNAL.NS",
+          "currency": "INR",
+          "shares": 3241.5076,
+          "lock_price_usd": 3.085,
+          "price_usd": 3.085,
+          "value_usd": 10000.0,
+          "cost_usd": 10000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-07-27T21:05:38+00:00",
+          "value_usd": 100000.0,
+          "return_pct": 0.0,
+          "pre": false
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "exchange": "NYSE / Nasdaq",
+      "start_date": "2026-07-27",
+      "value_usd": 100000.0,
+      "cost_usd": 100000,
+      "gain_usd": -0.0,
+      "return_pct": -0.0,
+      "holdings": [
+        {
+          "bucket": "Tech",
+          "company": "Apple",
+          "ticker": "AAPL",
+          "currency": "USD",
+          "shares": 59.363,
+          "lock_price_usd": 336.91,
+          "price_usd": 336.91,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        },
+        {
+          "bucket": "Boring",
+          "company": "Waste Management",
+          "ticker": "WM",
+          "currency": "USD",
+          "shares": 84.0689,
+          "lock_price_usd": 237.9,
+          "price_usd": 237.9,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Commodity",
+          "company": "Archer-Daniels-Midland",
+          "ticker": "ADM",
+          "currency": "USD",
+          "shares": 240.4135,
+          "lock_price_usd": 83.19,
+          "price_usd": 83.19,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        },
+        {
+          "bucket": "Consumer",
+          "company": "Walmart",
+          "ticker": "WMT",
+          "currency": "USD",
+          "shares": 178.9869,
+          "lock_price_usd": 111.74,
+          "price_usd": 111.74,
+          "value_usd": 20000.0,
+          "cost_usd": 20000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        },
+        {
+          "bucket": "Banking",
+          "company": "JPMorgan Chase",
+          "ticker": "JPM",
+          "currency": "USD",
+          "shares": 28.0741,
+          "lock_price_usd": 356.2,
+          "price_usd": 356.2,
+          "value_usd": 10000.0,
+          "cost_usd": 10000.0,
+          "gain_usd": -0.0,
+          "return_pct": -0.0
+        },
+        {
+          "bucket": "Wildcard",
+          "company": "SpaceX",
+          "ticker": "SPCX",
+          "currency": "USD",
+          "shares": 88.1057,
+          "lock_price_usd": 113.5,
+          "price_usd": 113.5,
+          "value_usd": 10000.0,
+          "cost_usd": 10000.0,
+          "gain_usd": 0.0,
+          "return_pct": 0.0
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-07-27",
+          "value_usd": 100000.0,
+          "return_pct": 0.0,
+          "pre": false
+        },
+        {
+          "t": "2026-07-27T21:05:38+00:00",
+          "value_usd": 100000.0,
+          "return_pct": -0.0,
+          "pre": false
+        }
+      ]
+    }
+  ]
+}

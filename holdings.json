@@ -1,0 +1,199 @@
+{
+  "locked": true,
+  "lock_time_utc": "2026-07-27T21:05:38+00:00",
+  "starting_capital": 100000,
+  "positions": {
+    "005930.KS": {
+      "shares": 115.41653850885827,
+      "lock_price_local": 254000.0,
+      "lock_price_usd": 173.28539097076623,
+      "currency": "KRW",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "015760.KS": {
+      "shares": 809.8287508632596,
+      "lock_price_local": 36200.0,
+      "lock_price_usd": 24.696579343077705,
+      "currency": "KRW",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "010130.KS": {
+      "shares": 28.48960231413994,
+      "lock_price_local": 1029000.0,
+      "lock_price_usd": 702.0105012162144,
+      "currency": "KRW",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "352820.KS": {
+      "shares": 130.29244791666667,
+      "lock_price_local": 225000.0,
+      "lock_price_usd": 153.5008384583559,
+      "currency": "KRW",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "105560.KS": {
+      "shares": 84.9241042330533,
+      "lock_price_local": 172600.0,
+      "lock_price_usd": 117.75219874627658,
+      "currency": "KRW",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    },
+    "012450.KS": {
+      "shares": 16.304672292130146,
+      "lock_price_local": 899000.0,
+      "lock_price_usd": 613.3211278847198,
+      "currency": "KRW",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    },
+    "7203.SR": {
+      "shares": 111.97016898773217,
+      "lock_price_local": 670.5,
+      "lock_price_usd": 178.61900344359816,
+      "currency": "SAR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "7010.SR": {
+      "shares": 1733.0562859250788,
+      "lock_price_local": 43.32,
+      "lock_price_usd": 11.540306083783255,
+      "currency": "SAR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "2222.SR": {
+      "shares": 2826.6565627362356,
+      "lock_price_local": 26.56,
+      "lock_price_usd": 7.075496989503307,
+      "currency": "SAR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "2280.SR": {
+      "shares": 1629.2534354660247,
+      "lock_price_local": 46.08,
+      "lock_price_usd": 12.275561042029834,
+      "currency": "SAR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "1120.SR": {
+      "shares": 583.7946991156642,
+      "lock_price_local": 64.3,
+      "lock_price_usd": 17.12930935335326,
+      "currency": "SAR",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    },
+    "2082.SR": {
+      "shares": 195.4086369241916,
+      "lock_price_local": 192.1,
+      "lock_price_usd": 51.17481068085788,
+      "currency": "SAR",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    },
+    "INFY.NS": {
+      "shares": 1777.242430057059,
+      "lock_price_local": 1079.2,
+      "lock_price_usd": 11.253388767765292,
+      "currency": "INR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "LT.NS": {
+      "shares": 503.94115357792384,
+      "lock_price_local": 3806.0,
+      "lock_price_usd": 39.68717350826047,
+      "currency": "INR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "COALINDIA.NS": {
+      "shares": 4486.549778988487,
+      "lock_price_local": 427.5,
+      "lock_price_usd": 4.4577684379351945,
+      "currency": "INR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "TITAN.NS": {
+      "shares": 404.63282009189214,
+      "lock_price_local": 4740.1,
+      "lock_price_usd": 49.427527889255245,
+      "currency": "INR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "HDFCBANK.NS": {
+      "shares": 1296.7345213424232,
+      "lock_price_local": 739.55,
+      "lock_price_usd": 7.711678709415142,
+      "currency": "INR",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    },
+    "ETERNAL.NS": {
+      "shares": 3241.5075722791585,
+      "lock_price_local": 295.85,
+      "lock_price_usd": 3.0849843096213507,
+      "currency": "INR",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    },
+    "AAPL": {
+      "shares": 59.36303399307256,
+      "lock_price_local": 336.9100036621094,
+      "lock_price_usd": 336.9100036621094,
+      "currency": "USD",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "WM": {
+      "shares": 84.06893868480908,
+      "lock_price_local": 237.89999389648438,
+      "lock_price_usd": 237.89999389648438,
+      "currency": "USD",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "ADM": {
+      "shares": 240.4135041838318,
+      "lock_price_local": 83.19000244140625,
+      "lock_price_usd": 83.19000244140625,
+      "currency": "USD",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "WMT": {
+      "shares": 178.98693737566984,
+      "lock_price_local": 111.73999786376953,
+      "lock_price_usd": 111.73999786376953,
+      "currency": "USD",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "JPM": {
+      "shares": 28.074114703252118,
+      "lock_price_local": 356.20001220703125,
+      "lock_price_usd": 356.20001220703125,
+      "currency": "USD",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    },
+    "SPCX": {
+      "shares": 88.10572687224669,
+      "lock_price_local": 113.5,
+      "lock_price_usd": 113.5,
+      "currency": "USD",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    }
+  }
+}

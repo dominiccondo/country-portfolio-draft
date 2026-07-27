@@ -1,0 +1,63 @@
+{
+  "series": "Country Portfolio Draft",
+  "start_date": "2026-07-27",
+  "starting_capital": 100000,
+  "countries": [
+    {
+      "code": "KR",
+      "name": "Korea",
+      "flag": "🇰🇷",
+      "exchange": "KRX",
+      "holdings": [
+        { "bucket": "Tech",      "company": "Samsung Electronics",  "ticker": "005930.KS", "weight": 0.20 },
+        { "bucket": "Boring",    "company": "Korea Electric (KEPCO)","ticker": "015760.KS", "weight": 0.20 },
+        { "bucket": "Commodity", "company": "Korea Zinc",           "ticker": "010130.KS", "weight": 0.20 },
+        { "bucket": "Consumer",  "company": "HYBE",                 "ticker": "352820.KS", "weight": 0.20 },
+        { "bucket": "Banking",   "company": "KB Financial Group",   "ticker": "105560.KS", "weight": 0.10 },
+        { "bucket": "Wildcard",  "company": "Hanwha Aerospace",     "ticker": "012450.KS", "weight": 0.10 }
+      ]
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "exchange": "Tadawul",
+      "holdings": [
+        { "bucket": "Tech",      "company": "Elm Company",          "ticker": "7203.SR", "weight": 0.20 },
+        { "bucket": "Boring",    "company": "Saudi Telecom (stc)",  "ticker": "7010.SR", "weight": 0.20 },
+        { "bucket": "Commodity", "company": "Saudi Aramco",         "ticker": "2222.SR", "weight": 0.20 },
+        { "bucket": "Consumer",  "company": "Almarai",              "ticker": "2280.SR", "weight": 0.20 },
+        { "bucket": "Banking",   "company": "Al Rajhi Bank",        "ticker": "1120.SR", "weight": 0.10 },
+        { "bucket": "Wildcard",  "company": "ACWA Power",           "ticker": "2082.SR", "weight": 0.10 }
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "flag": "🇮🇳",
+      "exchange": "NSE",
+      "holdings": [
+        { "bucket": "Tech",      "company": "Infosys",              "ticker": "INFY.NS",      "weight": 0.20 },
+        { "bucket": "Boring",    "company": "Larsen & Toubro",      "ticker": "LT.NS",        "weight": 0.20 },
+        { "bucket": "Commodity", "company": "Coal India",           "ticker": "COALINDIA.NS", "weight": 0.20 },
+        { "bucket": "Consumer",  "company": "Titan Company",        "ticker": "TITAN.NS",     "weight": 0.20 },
+        { "bucket": "Banking",   "company": "HDFC Bank",            "ticker": "HDFCBANK.NS",  "weight": 0.10 },
+        { "bucket": "Wildcard",  "company": "Eternal (Zomato)",     "ticker": "ETERNAL.NS",   "weight": 0.10 }
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "flag": "🇺🇸",
+      "exchange": "NYSE / Nasdaq",
+      "holdings": [
+        { "bucket": "Tech",      "company": "Apple",            "ticker": "AAPL", "weight": 0.20 },
+        { "bucket": "Boring",    "company": "Waste Management", "ticker": "WM",   "weight": 0.20 },
+        { "bucket": "Commodity", "company": "Archer-Daniels-Midland", "ticker": "ADM",  "weight": 0.20 },
+        { "bucket": "Consumer",  "company": "Walmart",          "ticker": "WMT",  "weight": 0.20 },
+        { "bucket": "Banking",   "company": "JPMorgan Chase",   "ticker": "JPM",  "weight": 0.10 },
+        { "bucket": "Wildcard",  "company": "SpaceX",           "ticker": "SPCX", "weight": 0.10 }
+      ]
+    }
+  ]
+}
