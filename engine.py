@@ -70,10 +70,16 @@ def fetch_series(symbol, retries=4):
     raise RuntimeError(f"failed to fetch {symbol}: {last}")
 
 
+def revealed_countries(portfolios):
+    """Only countries whose episode has aired (revealed). Others show as 'coming soon'
+    and are skipped entirely, so their picks/values never reach the public data file."""
+    return [c for c in portfolios["countries"] if c.get("revealed", True)]
+
+
 def gather(portfolios):
     """One request per ticker + per FX currency. Returns quotes + fx maps."""
     quotes, fx = {}, {}
-    for c in portfolios["countries"]:
+    for c in revealed_countries(portfolios):
         for h in c["holdings"]:
             t = h["ticker"]
             price, cur, hist = fetch_series(t)
@@ -106,7 +112,7 @@ def lock_positions(portfolios, quotes, fx, existing):
     start_date = portfolios["start_date"]
     positions = dict(existing)
     newly = []
-    for c in portfolios["countries"]:
+    for c in revealed_countries(portfolios):
         for h in c["holdings"]:
             t = h["ticker"]
             if t in positions:
@@ -165,8 +171,10 @@ def build_data(portfolios, holdings, quotes, fx):
     capital = portfolios["starting_capital"]
     positions = holdings["positions"]
     now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    shown = revealed_countries(portfolios)
+    coming_soon = len(portfolios["countries"]) - len(shown)
     out = []
-    for c in portfolios["countries"]:
+    for c in shown:
         rows, total = [], 0.0
         for h in c["holdings"]:
             t = h["ticker"]
@@ -199,7 +207,7 @@ def build_data(portfolios, holdings, quotes, fx):
     return {
         "series": portfolios["series"], "start_date": global_start,
         "starting_capital": capital, "locked_at_utc": holdings["lock_time_utc"],
-        "updated_at_utc": now_iso, "countries": out,
+        "updated_at_utc": now_iso, "coming_soon": coming_soon, "countries": out,
     }
 
 

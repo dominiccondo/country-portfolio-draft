@@ -8,6 +8,7 @@
       "name": "Korea",
       "flag": "🇰🇷",
       "exchange": "KRX",
+      "revealed": true,
       "holdings": [
         { "bucket": "Tech",      "company": "Samsung Electronics",  "ticker": "005930.KS", "weight": 0.20 },
         { "bucket": "Boring",    "company": "Korea Electric (KEPCO)","ticker": "015760.KS", "weight": 0.20 },
@@ -22,6 +23,7 @@
       "name": "Saudi Arabia",
       "flag": "🇸🇦",
       "exchange": "Tadawul",
+      "revealed": false,
       "holdings": [
         { "bucket": "Tech",      "company": "Elm Company",          "ticker": "7203.SR", "weight": 0.20 },
         { "bucket": "Boring",    "company": "Saudi Telecom (stc)",  "ticker": "7010.SR", "weight": 0.20 },
@@ -36,6 +38,7 @@
       "name": "India",
       "flag": "🇮🇳",
       "exchange": "NSE",
+      "revealed": false,
       "holdings": [
         { "bucket": "Tech",      "company": "Infosys",              "ticker": "INFY.NS",      "weight": 0.20 },
         { "bucket": "Boring",    "company": "Larsen & Toubro",      "ticker": "LT.NS",        "weight": 0.20 },
@@ -50,6 +53,7 @@
       "name": "United States",
       "flag": "🇺🇸",
       "exchange": "NYSE / Nasdaq",
+      "revealed": false,
       "holdings": [
         { "bucket": "Tech",      "company": "Apple",            "ticker": "AAPL", "weight": 0.20 },
         { "bucket": "Boring",    "company": "Waste Management", "ticker": "WM",   "weight": 0.20 },

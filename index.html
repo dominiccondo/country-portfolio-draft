@@ -56,6 +56,9 @@
   .chart-wrap{margin-top:16px;}
   .view-link{font-size:12px;color:var(--muted);margin-top:12px;letter-spacing:.03em;}
   .row:hover .view-link{color:var(--ink);}
+  .row.soon{opacity:.6;pointer-events:none;}
+  .row.soon:hover{background:none;}
+  .soon-title{font-size:24px;font-weight:600;color:var(--muted);letter-spacing:-.01em;}
 
   .pos{color:var(--pos);} .neg{color:var(--neg);} .flat{color:var(--muted);}
 
@@ -188,7 +191,20 @@ function renderList(){
       <div class="view-link">View holdings &rarr;</div>
     </a>`).join("");
   const btn = `<button class="sortbtn" onclick="toggleSort()">${sortDir==="desc"?"Best first":"Worst first"} <span class="arrow">${sortDir==="desc"?"↓":"↑"}</span></button>`;
-  $("app").innerHTML = `<div class="section-head"><span class="section-label">Leaderboard &middot; total return since draft</span>${btn}</div>${rows}`;
+  let soon = "";
+  for(let i=0;i<(DATA.coming_soon||0);i++){
+    soon += `
+      <div class="row soon">
+        <div class="row-top">
+          <div>
+            <div class="soon-title">Coming soon</div>
+            <div class="cmeta">New country each episode</div>
+          </div>
+          <div class="stat"><div class="ret num flat">&mdash;</div></div>
+        </div>
+      </div>`;
+  }
+  $("app").innerHTML = `<div class="section-head"><span class="section-label">Leaderboard &middot; total return since draft</span>${btn}</div>${rows}${soon}`;
   window.scrollTo(0,0);
 }
 
