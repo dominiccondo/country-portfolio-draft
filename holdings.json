@@ -50,6 +50,54 @@
       "currency": "KRW",
       "cost_usd": 10000.0,
       "lock_date": "2026-07-27"
+    },
+    "7203.SR": {
+      "shares": 108.36775493124009,
+      "lock_price_local": 670.5,
+      "lock_price_usd": 184.55674395663272,
+      "currency": "SAR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "7010.SR": {
+      "shares": 1677.2987117559423,
+      "lock_price_local": 43.31999969482422,
+      "lock_price_usd": 11.923934514361045,
+      "currency": "SAR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "2222.SR": {
+      "shares": 2735.714651446752,
+      "lock_price_local": 26.559999465942383,
+      "lock_price_usd": 7.310703983481327,
+      "currency": "SAR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "2280.SR": {
+      "shares": 1576.8354339002726,
+      "lock_price_local": 46.08000183105469,
+      "lock_price_usd": 12.68363176652517,
+      "currency": "SAR",
+      "cost_usd": 20000.0,
+      "lock_date": "2026-07-27"
+    },
+    "1120.SR": {
+      "shares": 565.0122568649716,
+      "lock_price_local": 64.30000305175781,
+      "lock_price_usd": 17.69873109565096,
+      "currency": "SAR",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
+    },
+    "2082.SR": {
+      "shares": 189.12175266210656,
+      "lock_price_local": 192.10000610351562,
+      "lock_price_usd": 52.875990515308146,
+      "currency": "SAR",
+      "cost_usd": 10000.0,
+      "lock_date": "2026-07-27"
     }
   }
 }

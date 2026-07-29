@@ -23,7 +23,7 @@
       "name": "Saudi Arabia",
       "flag": "🇸🇦",
       "exchange": "Tadawul",
-      "revealed": false,
+      "revealed": true,
       "holdings": [
         { "bucket": "Tech",      "company": "Elm Company",          "ticker": "7203.SR", "weight": 0.20 },
         { "bucket": "Boring",    "company": "Saudi Telecom (stc)",  "ticker": "7010.SR", "weight": 0.20 },
