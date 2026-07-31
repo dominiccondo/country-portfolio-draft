@@ -3,137 +3,9 @@
   "start_date": "2026-07-27",
   "starting_capital": 100000,
   "locked_at_utc": "2026-07-27T21:14:51+00:00",
-  "updated_at_utc": "2026-07-31T07:50:18+00:00",
+  "updated_at_utc": "2026-07-31T10:39:52+00:00",
   "coming_soon": 2,
   "countries": [
-    {
-      "code": "KR",
-      "name": "Korea",
-      "exchange": "KRX",
-      "start_date": "2026-07-27",
-      "value_usd": 96544.96,
-      "cost_usd": 100000,
-      "gain_usd": -3455.04,
-      "return_pct": -3.46,
-      "holdings": [
-        {
-          "bucket": "Tech",
-          "company": "Samsung Electronics",
-          "ticker": "005930.KS",
-          "currency": "KRW",
-          "shares": 115.4165,
-          "lock_price_usd": 173.2854,
-          "price_usd": 183.3869,
-          "value_usd": 21165.88,
-          "cost_usd": 20000.0,
-          "gain_usd": 1165.88,
-          "return_pct": 5.83
-        },
-        {
-          "bucket": "Boring",
-          "company": "Korea Electric (KEPCO)",
-          "ticker": "015760.KS",
-          "currency": "KRW",
-          "shares": 809.8288,
-          "lock_price_usd": 24.6966,
-          "price_usd": 24.3119,
-          "value_usd": 19688.45,
-          "cost_usd": 20000.0,
-          "gain_usd": -311.55,
-          "return_pct": -1.56
-        },
-        {
-          "bucket": "Commodity",
-          "company": "Korea Zinc",
-          "ticker": "010130.KS",
-          "currency": "KRW",
-          "shares": 28.4896,
-          "lock_price_usd": 702.0105,
-          "price_usd": 697.9181,
-          "value_usd": 19883.41,
-          "cost_usd": 20000.0,
-          "gain_usd": -116.59,
-          "return_pct": -0.58
-        },
-        {
-          "bucket": "Consumer",
-          "company": "HYBE",
-          "ticker": "352820.KS",
-          "currency": "KRW",
-          "shares": 130.2924,
-          "lock_price_usd": 153.5008,
-          "price_usd": 117.9265,
-          "value_usd": 15364.93,
-          "cost_usd": 20000.0,
-          "gain_usd": -4635.07,
-          "return_pct": -23.18
-        },
-        {
-          "bucket": "Banking",
-          "company": "KB Financial Group",
-          "ticker": "105560.KS",
-          "currency": "KRW",
-          "shares": 84.9241,
-          "lock_price_usd": 117.7522,
-          "price_usd": 117.7169,
-          "value_usd": 9997.0,
-          "cost_usd": 10000.0,
-          "gain_usd": -3.0,
-          "return_pct": -0.03
-        },
-        {
-          "bucket": "Wildcard",
-          "company": "Hanwha Aerospace",
-          "ticker": "012450.KS",
-          "currency": "KRW",
-          "shares": 16.3047,
-          "lock_price_usd": 613.3211,
-          "price_usd": 640.6315,
-          "value_usd": 10445.29,
-          "cost_usd": 10000.0,
-          "gain_usd": 445.29,
-          "return_pct": 4.45
-        }
-      ],
-      "history": [
-        {
-          "t": "2026-07-27",
-          "value_usd": 100092.19,
-          "return_pct": 0.09,
-          "pre": false
-        },
-        {
-          "t": "2026-07-28",
-          "value_usd": 91251.31,
-          "return_pct": -8.75,
-          "pre": false
-        },
-        {
-          "t": "2026-07-29",
-          "value_usd": 87470.89,
-          "return_pct": -12.53,
-          "pre": false
-        },
-        {
-          "t": "2026-07-30",
-          "value_usd": 87754.42,
-          "return_pct": -12.25,
-          "pre": false
-        },
-        {
-          "t": "2026-07-31",
-          "value_usd": 96544.96,
-          "return_pct": -3.46,
-          "pre": false
-        },
-        {
-          "t": "2026-07-31T07:50:18+00:00",
-          "value_usd": 96544.96,
-          "return_pct": -3.46,
-          "pre": false
-        }
-      ]
-    },
     {
       "code": "SA",
       "name": "Saudi Arabia",
@@ -243,9 +115,143 @@
           "pre": false
         },
         {
-          "t": "2026-07-31T07:50:18+00:00",
+          "t": "2026-07-30",
+          "value_usd": 99027.21,
+          "return_pct": -0.97,
+          "pre": false
+        },
+        {
+          "t": "2026-07-31T10:39:52+00:00",
           "value_usd": 96481.65,
           "return_pct": -3.52,
+          "pre": false
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "name": "Korea",
+      "exchange": "KRX",
+      "start_date": "2026-07-27",
+      "value_usd": 96195.5,
+      "cost_usd": 100000,
+      "gain_usd": -3804.5,
+      "return_pct": -3.8,
+      "holdings": [
+        {
+          "bucket": "Tech",
+          "company": "Samsung Electronics",
+          "ticker": "005930.KS",
+          "currency": "KRW",
+          "shares": 115.4165,
+          "lock_price_usd": 173.2854,
+          "price_usd": 182.7231,
+          "value_usd": 21089.27,
+          "cost_usd": 20000.0,
+          "gain_usd": 1089.27,
+          "return_pct": 5.45
+        },
+        {
+          "bucket": "Boring",
+          "company": "Korea Electric (KEPCO)",
+          "ticker": "015760.KS",
+          "currency": "KRW",
+          "shares": 809.8288,
+          "lock_price_usd": 24.6966,
+          "price_usd": 24.2239,
+          "value_usd": 19617.18,
+          "cost_usd": 20000.0,
+          "gain_usd": -382.82,
+          "return_pct": -1.91
+        },
+        {
+          "bucket": "Commodity",
+          "company": "Korea Zinc",
+          "ticker": "010130.KS",
+          "currency": "KRW",
+          "shares": 28.4896,
+          "lock_price_usd": 702.0105,
+          "price_usd": 695.3919,
+          "value_usd": 19811.44,
+          "cost_usd": 20000.0,
+          "gain_usd": -188.56,
+          "return_pct": -0.94
+        },
+        {
+          "bucket": "Consumer",
+          "company": "HYBE",
+          "ticker": "352820.KS",
+          "currency": "KRW",
+          "shares": 130.2924,
+          "lock_price_usd": 153.5008,
+          "price_usd": 117.4997,
+          "value_usd": 15309.32,
+          "cost_usd": 20000.0,
+          "gain_usd": -4690.68,
+          "return_pct": -23.45
+        },
+        {
+          "bucket": "Banking",
+          "company": "KB Financial Group",
+          "ticker": "105560.KS",
+          "currency": "KRW",
+          "shares": 84.9241,
+          "lock_price_usd": 117.7522,
+          "price_usd": 117.2908,
+          "value_usd": 9960.82,
+          "cost_usd": 10000.0,
+          "gain_usd": -39.18,
+          "return_pct": -0.39
+        },
+        {
+          "bucket": "Wildcard",
+          "company": "Hanwha Aerospace",
+          "ticker": "012450.KS",
+          "currency": "KRW",
+          "shares": 16.3047,
+          "lock_price_usd": 613.3211,
+          "price_usd": 638.3127,
+          "value_usd": 10407.48,
+          "cost_usd": 10000.0,
+          "gain_usd": 407.48,
+          "return_pct": 4.07
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-07-27",
+          "value_usd": 100092.19,
+          "return_pct": 0.09,
+          "pre": false
+        },
+        {
+          "t": "2026-07-28",
+          "value_usd": 91251.31,
+          "return_pct": -8.75,
+          "pre": false
+        },
+        {
+          "t": "2026-07-29",
+          "value_usd": 87470.89,
+          "return_pct": -12.53,
+          "pre": false
+        },
+        {
+          "t": "2026-07-30",
+          "value_usd": 87754.42,
+          "return_pct": -12.25,
+          "pre": false
+        },
+        {
+          "t": "2026-07-31",
+          "value_usd": 96195.5,
+          "return_pct": -3.8,
+          "pre": false
+        },
+        {
+          "t": "2026-07-31T10:39:52+00:00",
+          "value_usd": 96195.5,
+          "return_pct": -3.8,
           "pre": false
         }
       ]
