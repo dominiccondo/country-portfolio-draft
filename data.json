@@ -3,131 +3,9 @@
   "start_date": "2026-07-27",
   "starting_capital": 100000,
   "locked_at_utc": "2026-07-27T21:14:51+00:00",
-  "updated_at_utc": "2026-08-02T04:23:28+00:00",
+  "updated_at_utc": "2026-08-02T07:31:48+00:00",
   "coming_soon": 2,
   "countries": [
-    {
-      "code": "SA",
-      "name": "Saudi Arabia",
-      "exchange": "Tadawul",
-      "start_date": "2026-07-27",
-      "value_usd": 96466.23,
-      "cost_usd": 100000,
-      "gain_usd": -3533.77,
-      "return_pct": -3.53,
-      "holdings": [
-        {
-          "bucket": "Tech",
-          "company": "Elm Company",
-          "ticker": "7203.SR",
-          "currency": "SAR",
-          "shares": 108.3678,
-          "lock_price_usd": 184.5567,
-          "price_usd": 180.5448,
-          "value_usd": 19565.24,
-          "cost_usd": 20000.0,
-          "gain_usd": -434.76,
-          "return_pct": -2.17
-        },
-        {
-          "bucket": "Boring",
-          "company": "Saudi Telecom (stc)",
-          "ticker": "7010.SR",
-          "currency": "SAR",
-          "shares": 1677.2987,
-          "lock_price_usd": 11.9239,
-          "price_usd": 11.4878,
-          "value_usd": 19268.41,
-          "cost_usd": 20000.0,
-          "gain_usd": -731.59,
-          "return_pct": -3.66
-        },
-        {
-          "bucket": "Commodity",
-          "company": "Saudi Aramco",
-          "ticker": "2222.SR",
-          "currency": "SAR",
-          "shares": 2735.7147,
-          "lock_price_usd": 7.3107,
-          "price_usd": 7.0514,
-          "value_usd": 19290.53,
-          "cost_usd": 20000.0,
-          "gain_usd": -709.47,
-          "return_pct": -3.55
-        },
-        {
-          "bucket": "Consumer",
-          "company": "Almarai",
-          "ticker": "2280.SR",
-          "currency": "SAR",
-          "shares": 1576.8354,
-          "lock_price_usd": 12.6836,
-          "price_usd": 12.3559,
-          "value_usd": 19483.17,
-          "cost_usd": 20000.0,
-          "gain_usd": -516.83,
-          "return_pct": -2.58
-        },
-        {
-          "bucket": "Banking",
-          "company": "Al Rajhi Bank",
-          "ticker": "1120.SR",
-          "currency": "SAR",
-          "shares": 565.0123,
-          "lock_price_usd": 17.6987,
-          "price_usd": 16.6565,
-          "value_usd": 9411.1,
-          "cost_usd": 10000.0,
-          "gain_usd": -588.9,
-          "return_pct": -5.89
-        },
-        {
-          "bucket": "Wildcard",
-          "company": "ACWA Power",
-          "ticker": "2082.SR",
-          "currency": "SAR",
-          "shares": 189.1218,
-          "lock_price_usd": 52.876,
-          "price_usd": 49.9561,
-          "value_usd": 9447.78,
-          "cost_usd": 10000.0,
-          "gain_usd": -552.22,
-          "return_pct": -5.52
-        }
-      ],
-      "history": [
-        {
-          "t": "2026-07-27",
-          "value_usd": 100000.0,
-          "return_pct": 0.0,
-          "pre": false
-        },
-        {
-          "t": "2026-07-28",
-          "value_usd": 98622.22,
-          "return_pct": -1.38,
-          "pre": false
-        },
-        {
-          "t": "2026-07-29",
-          "value_usd": 98445.93,
-          "return_pct": -1.55,
-          "pre": false
-        },
-        {
-          "t": "2026-07-30",
-          "value_usd": 96473.94,
-          "return_pct": -3.53,
-          "pre": false
-        },
-        {
-          "t": "2026-08-02T04:23:28+00:00",
-          "value_usd": 96466.23,
-          "return_pct": -3.53,
-          "pre": false
-        }
-      ]
-    },
     {
       "code": "KR",
       "name": "Korea",
@@ -249,9 +127,137 @@
           "pre": false
         },
         {
-          "t": "2026-08-02T04:23:28+00:00",
+          "t": "2026-08-02T07:31:48+00:00",
           "value_usd": 96195.5,
           "return_pct": -3.8,
+          "pre": false
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "exchange": "Tadawul",
+      "start_date": "2026-07-27",
+      "value_usd": 94692.81,
+      "cost_usd": 100000,
+      "gain_usd": -5307.19,
+      "return_pct": -5.31,
+      "holdings": [
+        {
+          "bucket": "Tech",
+          "company": "Elm Company",
+          "ticker": "7203.SR",
+          "currency": "SAR",
+          "shares": 108.3678,
+          "lock_price_usd": 184.5567,
+          "price_usd": 162.8365,
+          "value_usd": 17646.23,
+          "cost_usd": 20000.0,
+          "gain_usd": -2353.77,
+          "return_pct": -11.77
+        },
+        {
+          "bucket": "Boring",
+          "company": "Saudi Telecom (stc)",
+          "ticker": "7010.SR",
+          "currency": "SAR",
+          "shares": 1677.2987,
+          "lock_price_usd": 11.9239,
+          "price_usd": 11.5037,
+          "value_usd": 19295.21,
+          "cost_usd": 20000.0,
+          "gain_usd": -704.79,
+          "return_pct": -3.52
+        },
+        {
+          "bucket": "Commodity",
+          "company": "Saudi Aramco",
+          "ticker": "2222.SR",
+          "currency": "SAR",
+          "shares": 2735.7147,
+          "lock_price_usd": 7.3107,
+          "price_usd": 7.078,
+          "value_usd": 19363.38,
+          "cost_usd": 20000.0,
+          "gain_usd": -636.62,
+          "return_pct": -3.18
+        },
+        {
+          "bucket": "Consumer",
+          "company": "Almarai",
+          "ticker": "2280.SR",
+          "currency": "SAR",
+          "shares": 1576.8354,
+          "lock_price_usd": 12.6836,
+          "price_usd": 12.3452,
+          "value_usd": 19466.38,
+          "cost_usd": 20000.0,
+          "gain_usd": -533.62,
+          "return_pct": -2.67
+        },
+        {
+          "bucket": "Banking",
+          "company": "Al Rajhi Bank",
+          "ticker": "1120.SR",
+          "currency": "SAR",
+          "shares": 565.0123,
+          "lock_price_usd": 17.6987,
+          "price_usd": 16.7497,
+          "value_usd": 9463.76,
+          "cost_usd": 10000.0,
+          "gain_usd": -536.24,
+          "return_pct": -5.36
+        },
+        {
+          "bucket": "Wildcard",
+          "company": "ACWA Power",
+          "ticker": "2082.SR",
+          "currency": "SAR",
+          "shares": 189.1218,
+          "lock_price_usd": 52.876,
+          "price_usd": 50.0093,
+          "value_usd": 9457.85,
+          "cost_usd": 10000.0,
+          "gain_usd": -542.15,
+          "return_pct": -5.42
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-07-27",
+          "value_usd": 100000.0,
+          "return_pct": 0.0,
+          "pre": false
+        },
+        {
+          "t": "2026-07-28",
+          "value_usd": 98622.22,
+          "return_pct": -1.38,
+          "pre": false
+        },
+        {
+          "t": "2026-07-29",
+          "value_usd": 98445.93,
+          "return_pct": -1.55,
+          "pre": false
+        },
+        {
+          "t": "2026-07-30",
+          "value_usd": 96473.94,
+          "return_pct": -3.53,
+          "pre": false
+        },
+        {
+          "t": "2026-08-02",
+          "value_usd": 94692.81,
+          "return_pct": -5.31,
+          "pre": false
+        },
+        {
+          "t": "2026-08-02T07:31:48+00:00",
+          "value_usd": 94692.81,
+          "return_pct": -5.31,
           "pre": false
         }
       ]
