@@ -3,146 +3,18 @@
   "start_date": "2026-07-27",
   "starting_capital": 100000,
   "locked_at_utc": "2026-07-27T21:14:51+00:00",
-  "updated_at_utc": "2026-08-04T05:47:28+00:00",
+  "updated_at_utc": "2026-08-04T08:37:14+00:00",
   "coming_soon": 2,
   "countries": [
-    {
-      "code": "SA",
-      "name": "Saudi Arabia",
-      "exchange": "Tadawul",
-      "start_date": "2026-07-27",
-      "value_usd": 97502.76,
-      "cost_usd": 100000,
-      "gain_usd": -2497.24,
-      "return_pct": -2.5,
-      "holdings": [
-        {
-          "bucket": "Tech",
-          "company": "Elm Company",
-          "ticker": "7203.SR",
-          "currency": "SAR",
-          "shares": 108.3678,
-          "lock_price_usd": 184.5567,
-          "price_usd": 170.9584,
-          "value_usd": 18526.38,
-          "cost_usd": 20000.0,
-          "gain_usd": -1473.62,
-          "return_pct": -7.37
-        },
-        {
-          "bucket": "Boring",
-          "company": "Saudi Telecom (stc)",
-          "ticker": "7010.SR",
-          "currency": "SAR",
-          "shares": 1677.2987,
-          "lock_price_usd": 11.9239,
-          "price_usd": 11.6955,
-          "value_usd": 19616.8,
-          "cost_usd": 20000.0,
-          "gain_usd": -383.2,
-          "return_pct": -1.92
-        },
-        {
-          "bucket": "Commodity",
-          "company": "Saudi Aramco",
-          "ticker": "2222.SR",
-          "currency": "SAR",
-          "shares": 2735.7147,
-          "lock_price_usd": 7.3107,
-          "price_usd": 7.2218,
-          "value_usd": 19756.77,
-          "cost_usd": 20000.0,
-          "gain_usd": -243.23,
-          "return_pct": -1.22
-        },
-        {
-          "bucket": "Consumer",
-          "company": "Almarai",
-          "ticker": "2280.SR",
-          "currency": "SAR",
-          "shares": 1576.8354,
-          "lock_price_usd": 12.6836,
-          "price_usd": 12.6594,
-          "value_usd": 19961.86,
-          "cost_usd": 20000.0,
-          "gain_usd": -38.14,
-          "return_pct": -0.19
-        },
-        {
-          "bucket": "Banking",
-          "company": "Al Rajhi Bank",
-          "ticker": "1120.SR",
-          "currency": "SAR",
-          "shares": 565.0123,
-          "lock_price_usd": 17.6987,
-          "price_usd": 17.0958,
-          "value_usd": 9659.36,
-          "cost_usd": 10000.0,
-          "gain_usd": -340.64,
-          "return_pct": -3.41
-        },
-        {
-          "bucket": "Wildcard",
-          "company": "ACWA Power",
-          "ticker": "2082.SR",
-          "currency": "SAR",
-          "shares": 189.1218,
-          "lock_price_usd": 52.876,
-          "price_usd": 52.7787,
-          "value_usd": 9981.61,
-          "cost_usd": 10000.0,
-          "gain_usd": -18.39,
-          "return_pct": -0.18
-        }
-      ],
-      "history": [
-        {
-          "t": "2026-07-27",
-          "value_usd": 100000.0,
-          "return_pct": 0.0,
-          "pre": false
-        },
-        {
-          "t": "2026-07-28",
-          "value_usd": 98622.22,
-          "return_pct": -1.38,
-          "pre": false
-        },
-        {
-          "t": "2026-07-29",
-          "value_usd": 98445.93,
-          "return_pct": -1.55,
-          "pre": false
-        },
-        {
-          "t": "2026-07-30",
-          "value_usd": 96473.94,
-          "return_pct": -3.53,
-          "pre": false
-        },
-        {
-          "t": "2026-08-02",
-          "value_usd": 99058.19,
-          "return_pct": -0.94,
-          "pre": false
-        },
-        {
-          "t": "2026-08-04T05:47:28+00:00",
-          "value_usd": 97502.76,
-          "return_pct": -2.5,
-          "pre": false
-        }
-      ]
-    },
     {
       "code": "KR",
       "name": "Korea",
       "exchange": "KRX",
       "start_date": "2026-07-27",
-      "value_usd": 97257.83,
+      "value_usd": 97890.35,
       "cost_usd": 100000,
-      "gain_usd": -2742.17,
-      "return_pct": -2.74,
+      "gain_usd": -2109.65,
+      "return_pct": -2.11,
       "holdings": [
         {
           "bucket": "Tech",
@@ -151,11 +23,11 @@
           "currency": "KRW",
           "shares": 115.4165,
           "lock_price_usd": 173.2854,
-          "price_usd": 161.7897,
-          "value_usd": 18673.2,
+          "price_usd": 167.5767,
+          "value_usd": 19341.12,
           "cost_usd": 20000.0,
-          "gain_usd": -1326.8,
-          "return_pct": -6.63
+          "gain_usd": -658.88,
+          "return_pct": -3.29
         },
         {
           "bucket": "Boring",
@@ -164,11 +36,11 @@
           "currency": "KRW",
           "shares": 809.8288,
           "lock_price_usd": 24.6966,
-          "price_usd": 24.6179,
-          "value_usd": 19936.27,
+          "price_usd": 24.543,
+          "value_usd": 19875.63,
           "cost_usd": 20000.0,
-          "gain_usd": -63.73,
-          "return_pct": -0.32
+          "gain_usd": -124.37,
+          "return_pct": -0.62
         },
         {
           "bucket": "Commodity",
@@ -177,11 +49,11 @@
           "currency": "KRW",
           "shares": 28.4896,
           "lock_price_usd": 702.0105,
-          "price_usd": 730.3249,
-          "value_usd": 20806.67,
+          "price_usd": 728.9587,
+          "value_usd": 20767.74,
           "cost_usd": 20000.0,
-          "gain_usd": 806.67,
-          "return_pct": 4.03
+          "gain_usd": 767.74,
+          "return_pct": 3.84
         },
         {
           "bucket": "Consumer",
@@ -190,11 +62,11 @@
           "currency": "KRW",
           "shares": 130.2924,
           "lock_price_usd": 153.5008,
-          "price_usd": 126.0073,
-          "value_usd": 16417.79,
+          "price_usd": 126.3808,
+          "value_usd": 16466.46,
           "cost_usd": 20000.0,
-          "gain_usd": -3582.21,
-          "return_pct": -17.91
+          "gain_usd": -3533.54,
+          "return_pct": -17.67
         },
         {
           "bucket": "Banking",
@@ -203,11 +75,11 @@
           "currency": "KRW",
           "shares": 84.9241,
           "lock_price_usd": 117.7522,
-          "price_usd": 117.6906,
-          "value_usd": 9994.77,
+          "price_usd": 117.8623,
+          "value_usd": 10009.35,
           "cost_usd": 10000.0,
-          "gain_usd": -5.23,
-          "return_pct": -0.05
+          "gain_usd": 9.35,
+          "return_pct": 0.09
         },
         {
           "bucket": "Wildcard",
@@ -216,11 +88,11 @@
           "currency": "KRW",
           "shares": 16.3047,
           "lock_price_usd": 613.3211,
-          "price_usd": 700.9721,
-          "value_usd": 11429.12,
+          "price_usd": 701.0292,
+          "value_usd": 11430.05,
           "cost_usd": 10000.0,
-          "gain_usd": 1429.12,
-          "return_pct": 14.29
+          "gain_usd": 1430.05,
+          "return_pct": 14.3
         }
       ],
       "history": [
@@ -262,14 +134,148 @@
         },
         {
           "t": "2026-08-04",
-          "value_usd": 97257.83,
-          "return_pct": -2.74,
+          "value_usd": 97890.35,
+          "return_pct": -2.11,
           "pre": false
         },
         {
-          "t": "2026-08-04T05:47:28+00:00",
-          "value_usd": 97257.83,
-          "return_pct": -2.74,
+          "t": "2026-08-04T08:37:14+00:00",
+          "value_usd": 97890.35,
+          "return_pct": -2.11,
+          "pre": false
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "exchange": "Tadawul",
+      "start_date": "2026-07-27",
+      "value_usd": 97416.0,
+      "cost_usd": 100000,
+      "gain_usd": -2584.0,
+      "return_pct": -2.58,
+      "holdings": [
+        {
+          "bucket": "Tech",
+          "company": "Elm Company",
+          "ticker": "7203.SR",
+          "currency": "SAR",
+          "shares": 108.3678,
+          "lock_price_usd": 184.5567,
+          "price_usd": 172.6617,
+          "value_usd": 18710.96,
+          "cost_usd": 20000.0,
+          "gain_usd": -1289.04,
+          "return_pct": -6.45
+        },
+        {
+          "bucket": "Boring",
+          "company": "Saudi Telecom (stc)",
+          "ticker": "7010.SR",
+          "currency": "SAR",
+          "shares": 1677.2987,
+          "lock_price_usd": 11.9239,
+          "price_usd": 11.6084,
+          "value_usd": 19470.76,
+          "cost_usd": 20000.0,
+          "gain_usd": -529.24,
+          "return_pct": -2.65
+        },
+        {
+          "bucket": "Commodity",
+          "company": "Saudi Aramco",
+          "ticker": "2222.SR",
+          "currency": "SAR",
+          "shares": 2735.7147,
+          "lock_price_usd": 7.3107,
+          "price_usd": 7.21,
+          "value_usd": 19724.47,
+          "cost_usd": 20000.0,
+          "gain_usd": -275.53,
+          "return_pct": -1.38
+        },
+        {
+          "bucket": "Consumer",
+          "company": "Almarai",
+          "ticker": "2280.SR",
+          "currency": "SAR",
+          "shares": 1576.8354,
+          "lock_price_usd": 12.6836,
+          "price_usd": 12.6201,
+          "value_usd": 19899.89,
+          "cost_usd": 20000.0,
+          "gain_usd": -100.11,
+          "return_pct": -0.5
+        },
+        {
+          "bucket": "Banking",
+          "company": "Al Rajhi Bank",
+          "ticker": "1120.SR",
+          "currency": "SAR",
+          "shares": 565.0123,
+          "lock_price_usd": 17.6987,
+          "price_usd": 17.1863,
+          "value_usd": 9710.47,
+          "cost_usd": 10000.0,
+          "gain_usd": -289.53,
+          "return_pct": -2.9
+        },
+        {
+          "bucket": "Wildcard",
+          "company": "ACWA Power",
+          "ticker": "2082.SR",
+          "currency": "SAR",
+          "shares": 189.1218,
+          "lock_price_usd": 52.876,
+          "price_usd": 52.3443,
+          "value_usd": 9899.45,
+          "cost_usd": 10000.0,
+          "gain_usd": -100.55,
+          "return_pct": -1.01
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-07-27",
+          "value_usd": 100000.0,
+          "return_pct": 0.0,
+          "pre": false
+        },
+        {
+          "t": "2026-07-28",
+          "value_usd": 98622.22,
+          "return_pct": -1.38,
+          "pre": false
+        },
+        {
+          "t": "2026-07-29",
+          "value_usd": 98445.93,
+          "return_pct": -1.55,
+          "pre": false
+        },
+        {
+          "t": "2026-07-30",
+          "value_usd": 96473.94,
+          "return_pct": -3.53,
+          "pre": false
+        },
+        {
+          "t": "2026-08-02",
+          "value_usd": 99058.19,
+          "return_pct": -0.94,
+          "pre": false
+        },
+        {
+          "t": "2026-08-04",
+          "value_usd": 97416.0,
+          "return_pct": -2.58,
+          "pre": false
+        },
+        {
+          "t": "2026-08-04T08:37:14+00:00",
+          "value_usd": 97416.0,
+          "return_pct": -2.58,
           "pre": false
         }
       ]
