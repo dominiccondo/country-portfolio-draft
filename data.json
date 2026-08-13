@@ -3,7 +3,7 @@
   "start_date": "2026-07-27",
   "starting_capital": 100000,
   "locked_at_utc": "2026-07-27T21:14:51+00:00",
-  "updated_at_utc": "2026-08-13T19:12:03+00:00",
+  "updated_at_utc": "2026-08-13T20:42:54+00:00",
   "coming_soon": 2,
   "countries": [
     {
@@ -170,12 +170,12 @@
         },
         {
           "t": "2026-08-12",
-          "value_usd": 105613.53,
-          "return_pct": 5.61,
+          "value_usd": 105294.41,
+          "return_pct": 5.29,
           "pre": false
         },
         {
-          "t": "2026-08-13T19:12:03+00:00",
+          "t": "2026-08-13T20:42:54+00:00",
           "value_usd": 105384.71,
           "return_pct": 5.38,
           "pre": false
@@ -346,8 +346,8 @@
         },
         {
           "t": "2026-08-12",
-          "value_usd": 98562.33,
-          "return_pct": -1.44,
+          "value_usd": 98589.46,
+          "return_pct": -1.41,
           "pre": false
         },
         {
@@ -357,7 +357,7 @@
           "pre": false
         },
         {
-          "t": "2026-08-13T19:12:03+00:00",
+          "t": "2026-08-13T20:42:54+00:00",
           "value_usd": 94758.21,
           "return_pct": -5.24,
           "pre": false
