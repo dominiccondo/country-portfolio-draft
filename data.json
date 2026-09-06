@@ -3,7 +3,7 @@
   "start_date": "2026-07-27",
   "starting_capital": 100000,
   "locked_at_utc": "2026-07-27T21:14:51+00:00",
-  "updated_at_utc": "2026-09-06T10:24:26+00:00",
+  "updated_at_utc": "2026-09-06T13:58:29+00:00",
   "coming_soon": 2,
   "countries": [
     {
@@ -271,7 +271,7 @@
           "pre": false
         },
         {
-          "t": "2026-09-06T10:24:26+00:00",
+          "t": "2026-09-06T13:58:29+00:00",
           "value_usd": 107619.56,
           "return_pct": 7.62,
           "pre": false
@@ -283,10 +283,10 @@
       "name": "Saudi Arabia",
       "exchange": "Tadawul",
       "start_date": "2026-07-27",
-      "value_usd": 95737.92,
+      "value_usd": 95761.71,
       "cost_usd": 100000,
-      "gain_usd": -4262.08,
-      "return_pct": -4.26,
+      "gain_usd": -4238.29,
+      "return_pct": -4.24,
       "holdings": [
         {
           "bucket": "Tech",
@@ -295,11 +295,11 @@
           "currency": "SAR",
           "shares": 108.3678,
           "lock_price_usd": 184.5567,
-          "price_usd": 161.6597,
-          "value_usd": 17518.7,
+          "price_usd": 161.5266,
+          "value_usd": 17504.27,
           "cost_usd": 20000.0,
-          "gain_usd": -2481.3,
-          "return_pct": -12.41
+          "gain_usd": -2495.73,
+          "return_pct": -12.48
         },
         {
           "bucket": "Boring",
@@ -308,11 +308,11 @@
           "currency": "SAR",
           "shares": 1677.2987,
           "lock_price_usd": 11.9239,
-          "price_usd": 11.7237,
-          "value_usd": 19664.08,
+          "price_usd": 11.7556,
+          "value_usd": 19717.69,
           "cost_usd": 20000.0,
-          "gain_usd": -335.92,
-          "return_pct": -1.68
+          "gain_usd": -282.31,
+          "return_pct": -1.41
         },
         {
           "bucket": "Commodity",
@@ -334,11 +334,11 @@
           "currency": "SAR",
           "shares": 1576.8354,
           "lock_price_usd": 12.6836,
-          "price_usd": 12.6771,
-          "value_usd": 19989.71,
+          "price_usd": 12.6451,
+          "value_usd": 19939.32,
           "cost_usd": 20000.0,
-          "gain_usd": -10.29,
-          "return_pct": -0.05
+          "gain_usd": -60.68,
+          "return_pct": -0.3
         },
         {
           "bucket": "Banking",
@@ -347,11 +347,11 @@
           "currency": "SAR",
           "shares": 565.0123,
           "lock_price_usd": 17.6987,
-          "price_usd": 17.684,
-          "value_usd": 9991.69,
+          "price_usd": 17.7906,
+          "value_usd": 10051.89,
           "cost_usd": 10000.0,
-          "gain_usd": -8.31,
-          "return_pct": -0.08
+          "gain_usd": 51.89,
+          "return_pct": 0.52
         },
         {
           "bucket": "Wildcard",
@@ -360,11 +360,11 @@
           "currency": "SAR",
           "shares": 189.1218,
           "lock_price_usd": 52.876,
-          "price_usd": 50.9215,
-          "value_usd": 9630.36,
+          "price_usd": 50.7883,
+          "value_usd": 9605.18,
           "cost_usd": 10000.0,
-          "gain_usd": -369.64,
-          "return_pct": -3.7
+          "gain_usd": -394.82,
+          "return_pct": -3.95
         }
       ],
       "history": [
@@ -544,14 +544,14 @@
         },
         {
           "t": "2026-09-06",
-          "value_usd": 95737.92,
-          "return_pct": -4.26,
+          "value_usd": 95761.71,
+          "return_pct": -4.24,
           "pre": false
         },
         {
-          "t": "2026-09-06T10:24:26+00:00",
-          "value_usd": 95737.92,
-          "return_pct": -4.26,
+          "t": "2026-09-06T13:58:29+00:00",
+          "value_usd": 95761.71,
+          "return_pct": -4.24,
           "pre": false
         }
       ]
