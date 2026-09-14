@@ -3,7 +3,7 @@
   "start_date": "2026-07-27",
   "starting_capital": 100000,
   "locked_at_utc": "2026-07-27T21:14:51+00:00",
-  "updated_at_utc": "2026-09-14T18:22:10+00:00",
+  "updated_at_utc": "2026-09-14T22:17:28+00:00",
   "coming_soon": 2,
   "countries": [
     {
@@ -11,10 +11,10 @@
       "name": "Korea",
       "exchange": "KRX",
       "start_date": "2026-07-27",
-      "value_usd": 107433.59,
+      "value_usd": 107409.65,
       "cost_usd": 100000,
-      "gain_usd": 7433.59,
-      "return_pct": 7.43,
+      "gain_usd": 7409.65,
+      "return_pct": 7.41,
       "holdings": [
         {
           "bucket": "Tech",
@@ -23,11 +23,11 @@
           "currency": "KRW",
           "shares": 115.4165,
           "lock_price_usd": 173.2854,
-          "price_usd": 185.0008,
-          "value_usd": 21352.15,
+          "price_usd": 184.9596,
+          "value_usd": 21347.4,
           "cost_usd": 20000.0,
-          "gain_usd": 1352.15,
-          "return_pct": 6.76
+          "gain_usd": 1347.4,
+          "return_pct": 6.74
         },
         {
           "bucket": "Boring",
@@ -36,11 +36,11 @@
           "currency": "KRW",
           "shares": 809.8288,
           "lock_price_usd": 24.6966,
-          "price_usd": 23.7381,
-          "value_usd": 19223.76,
+          "price_usd": 23.7328,
+          "value_usd": 19219.48,
           "cost_usd": 20000.0,
-          "gain_usd": -776.24,
-          "return_pct": -3.88
+          "gain_usd": -780.52,
+          "return_pct": -3.9
         },
         {
           "bucket": "Commodity",
@@ -49,11 +49,11 @@
           "currency": "KRW",
           "shares": 28.4896,
           "lock_price_usd": 702.0105,
-          "price_usd": 864.0801,
-          "value_usd": 24617.3,
+          "price_usd": 863.8876,
+          "value_usd": 24611.81,
           "cost_usd": 20000.0,
-          "gain_usd": 4617.3,
-          "return_pct": 23.09
+          "gain_usd": 4611.81,
+          "return_pct": 23.06
         },
         {
           "bucket": "Consumer",
@@ -62,11 +62,11 @@
           "currency": "KRW",
           "shares": 130.2924,
           "lock_price_usd": 153.5008,
-          "price_usd": 130.5407,
-          "value_usd": 17008.47,
+          "price_usd": 130.5116,
+          "value_usd": 17004.68,
           "cost_usd": 20000.0,
-          "gain_usd": -2991.53,
-          "return_pct": -14.96
+          "gain_usd": -2995.32,
+          "return_pct": -14.98
         },
         {
           "bucket": "Banking",
@@ -75,11 +75,11 @@
           "currency": "KRW",
           "shares": 84.9241,
           "lock_price_usd": 117.7522,
-          "price_usd": 134.9243,
-          "value_usd": 11458.32,
+          "price_usd": 134.8942,
+          "value_usd": 11455.77,
           "cost_usd": 10000.0,
-          "gain_usd": 1458.32,
-          "return_pct": 14.58
+          "gain_usd": 1455.77,
+          "return_pct": 14.56
         },
         {
           "bucket": "Wildcard",
@@ -88,11 +88,11 @@
           "currency": "KRW",
           "shares": 16.3047,
           "lock_price_usd": 613.3211,
-          "price_usd": 844.7628,
-          "value_usd": 13773.58,
+          "price_usd": 844.5745,
+          "value_usd": 13770.51,
           "cost_usd": 10000.0,
-          "gain_usd": 3773.58,
-          "return_pct": 37.74
+          "gain_usd": 3770.51,
+          "return_pct": 37.71
         }
       ],
       "history": [
@@ -301,9 +301,15 @@
           "pre": false
         },
         {
-          "t": "2026-09-14T18:22:10+00:00",
-          "value_usd": 107433.59,
-          "return_pct": 7.43,
+          "t": "2026-09-14",
+          "value_usd": 107409.65,
+          "return_pct": 7.41,
+          "pre": false
+        },
+        {
+          "t": "2026-09-14T22:17:28+00:00",
+          "value_usd": 107409.65,
+          "return_pct": 7.41,
           "pre": false
         }
       ]
@@ -598,18 +604,12 @@
         },
         {
           "t": "2026-09-13",
-          "value_usd": 98079.91,
-          "return_pct": -1.92,
+          "value_usd": 98148.43,
+          "return_pct": -1.85,
           "pre": false
         },
         {
-          "t": "2026-09-14",
-          "value_usd": 95092.19,
-          "return_pct": -4.91,
-          "pre": false
-        },
-        {
-          "t": "2026-09-14T18:22:10+00:00",
+          "t": "2026-09-14T22:17:28+00:00",
           "value_usd": 95092.19,
           "return_pct": -4.91,
           "pre": false
