@@ -3,491 +3,9 @@
   "start_date": "2026-07-27",
   "starting_capital": 100000,
   "locked_at_utc": "2026-07-27T21:14:51+00:00",
-  "updated_at_utc": "2026-10-29T21:34:44+00:00",
+  "updated_at_utc": "2026-10-30T01:36:56+00:00",
   "coming_soon": 2,
   "countries": [
-    {
-      "code": "KR",
-      "name": "Korea",
-      "exchange": "KRX",
-      "start_date": "2026-07-27",
-      "value_usd": 90379.3,
-      "cost_usd": 100000,
-      "gain_usd": -9620.7,
-      "return_pct": -9.62,
-      "holdings": [
-        {
-          "bucket": "Tech",
-          "company": "Samsung Electronics",
-          "ticker": "005930.KS",
-          "currency": "KRW",
-          "shares": 115.4165,
-          "lock_price_usd": 173.2854,
-          "price_usd": 173.2856,
-          "value_usd": 20000.03,
-          "cost_usd": 20000.0,
-          "gain_usd": 0.03,
-          "return_pct": 0.0
-        },
-        {
-          "bucket": "Boring",
-          "company": "Korea Electric (KEPCO)",
-          "ticker": "015760.KS",
-          "currency": "KRW",
-          "shares": 809.8288,
-          "lock_price_usd": 24.6966,
-          "price_usd": 21.1379,
-          "value_usd": 17118.05,
-          "cost_usd": 20000.0,
-          "gain_usd": -2881.95,
-          "return_pct": -14.41
-        },
-        {
-          "bucket": "Commodity",
-          "company": "Korea Zinc",
-          "ticker": "010130.KS",
-          "currency": "KRW",
-          "shares": 28.4896,
-          "lock_price_usd": 702.0105,
-          "price_usd": 655.7965,
-          "value_usd": 18683.38,
-          "cost_usd": 20000.0,
-          "gain_usd": -1316.62,
-          "return_pct": -6.58
-        },
-        {
-          "bucket": "Consumer",
-          "company": "HYBE",
-          "ticker": "352820.KS",
-          "currency": "KRW",
-          "shares": 130.2924,
-          "lock_price_usd": 153.5008,
-          "price_usd": 118.0135,
-          "value_usd": 15376.27,
-          "cost_usd": 20000.0,
-          "gain_usd": -4623.73,
-          "return_pct": -23.12
-        },
-        {
-          "bucket": "Banking",
-          "company": "KB Financial Group",
-          "ticker": "105560.KS",
-          "currency": "KRW",
-          "shares": 84.9241,
-          "lock_price_usd": 117.7522,
-          "price_usd": 117.1172,
-          "value_usd": 9946.07,
-          "cost_usd": 10000.0,
-          "gain_usd": -53.93,
-          "return_pct": -0.54
-        },
-        {
-          "bucket": "Wildcard",
-          "company": "Hanwha Aerospace",
-          "ticker": "012450.KS",
-          "currency": "KRW",
-          "shares": 16.3047,
-          "lock_price_usd": 613.3211,
-          "price_usd": 567.6598,
-          "value_usd": 9255.51,
-          "cost_usd": 10000.0,
-          "gain_usd": -744.49,
-          "return_pct": -7.44
-        }
-      ],
-      "history": [
-        {
-          "t": "2026-07-27",
-          "value_usd": 100092.19,
-          "return_pct": 0.09,
-          "pre": false
-        },
-        {
-          "t": "2026-07-28",
-          "value_usd": 91251.31,
-          "return_pct": -8.75,
-          "pre": false
-        },
-        {
-          "t": "2026-07-29",
-          "value_usd": 87470.89,
-          "return_pct": -12.53,
-          "pre": false
-        },
-        {
-          "t": "2026-07-30",
-          "value_usd": 89093.66,
-          "return_pct": -10.91,
-          "pre": false
-        },
-        {
-          "t": "2026-07-31",
-          "value_usd": 97278.94,
-          "return_pct": -2.72,
-          "pre": false
-        },
-        {
-          "t": "2026-08-03",
-          "value_usd": 95715.33,
-          "return_pct": -4.28,
-          "pre": false
-        },
-        {
-          "t": "2026-08-04",
-          "value_usd": 98147.34,
-          "return_pct": -1.85,
-          "pre": false
-        },
-        {
-          "t": "2026-08-05",
-          "value_usd": 100620.44,
-          "return_pct": 0.62,
-          "pre": false
-        },
-        {
-          "t": "2026-08-06",
-          "value_usd": 102767.68,
-          "return_pct": 2.77,
-          "pre": false
-        },
-        {
-          "t": "2026-08-07",
-          "value_usd": 101188.64,
-          "return_pct": 1.19,
-          "pre": false
-        },
-        {
-          "t": "2026-08-10",
-          "value_usd": 104399.58,
-          "return_pct": 4.4,
-          "pre": false
-        },
-        {
-          "t": "2026-08-11",
-          "value_usd": 103885.17,
-          "return_pct": 3.89,
-          "pre": false
-        },
-        {
-          "t": "2026-08-12",
-          "value_usd": 105294.41,
-          "return_pct": 5.29,
-          "pre": false
-        },
-        {
-          "t": "2026-08-13",
-          "value_usd": 105476.95,
-          "return_pct": 5.48,
-          "pre": false
-        },
-        {
-          "t": "2026-08-14",
-          "value_usd": 105360.35,
-          "return_pct": 5.36,
-          "pre": false
-        },
-        {
-          "t": "2026-08-18",
-          "value_usd": 104343.37,
-          "return_pct": 4.34,
-          "pre": false
-        },
-        {
-          "t": "2026-08-19",
-          "value_usd": 102150.38,
-          "return_pct": 2.15,
-          "pre": false
-        },
-        {
-          "t": "2026-08-20",
-          "value_usd": 106061.07,
-          "return_pct": 6.06,
-          "pre": false
-        },
-        {
-          "t": "2026-08-21",
-          "value_usd": 105668.83,
-          "return_pct": 5.67,
-          "pre": false
-        },
-        {
-          "t": "2026-08-24",
-          "value_usd": 107244.22,
-          "return_pct": 7.24,
-          "pre": false
-        },
-        {
-          "t": "2026-08-25",
-          "value_usd": 109543.75,
-          "return_pct": 9.54,
-          "pre": false
-        },
-        {
-          "t": "2026-08-26",
-          "value_usd": 110342.77,
-          "return_pct": 10.34,
-          "pre": false
-        },
-        {
-          "t": "2026-08-27",
-          "value_usd": 111243.1,
-          "return_pct": 11.24,
-          "pre": false
-        },
-        {
-          "t": "2026-08-28",
-          "value_usd": 110170.82,
-          "return_pct": 10.17,
-          "pre": false
-        },
-        {
-          "t": "2026-08-31",
-          "value_usd": 108503.18,
-          "return_pct": 8.5,
-          "pre": false
-        },
-        {
-          "t": "2026-09-01",
-          "value_usd": 107034.64,
-          "return_pct": 7.03,
-          "pre": false
-        },
-        {
-          "t": "2026-09-02",
-          "value_usd": 105144.83,
-          "return_pct": 5.14,
-          "pre": false
-        },
-        {
-          "t": "2026-09-03",
-          "value_usd": 107063.4,
-          "return_pct": 7.06,
-          "pre": false
-        },
-        {
-          "t": "2026-09-04",
-          "value_usd": 107277.35,
-          "return_pct": 7.28,
-          "pre": false
-        },
-        {
-          "t": "2026-09-07",
-          "value_usd": 110147.75,
-          "return_pct": 10.15,
-          "pre": false
-        },
-        {
-          "t": "2026-09-08",
-          "value_usd": 110818.37,
-          "return_pct": 10.82,
-          "pre": false
-        },
-        {
-          "t": "2026-09-09",
-          "value_usd": 110343.05,
-          "return_pct": 10.34,
-          "pre": false
-        },
-        {
-          "t": "2026-09-10",
-          "value_usd": 108949.34,
-          "return_pct": 8.95,
-          "pre": false
-        },
-        {
-          "t": "2026-09-11",
-          "value_usd": 108012.42,
-          "return_pct": 8.01,
-          "pre": false
-        },
-        {
-          "t": "2026-09-14",
-          "value_usd": 107459.94,
-          "return_pct": 7.46,
-          "pre": false
-        },
-        {
-          "t": "2026-09-15",
-          "value_usd": 103629.05,
-          "return_pct": 3.63,
-          "pre": false
-        },
-        {
-          "t": "2026-09-16",
-          "value_usd": 102348.34,
-          "return_pct": 2.35,
-          "pre": false
-        },
-        {
-          "t": "2026-09-17",
-          "value_usd": 102152.36,
-          "return_pct": 2.15,
-          "pre": false
-        },
-        {
-          "t": "2026-09-18",
-          "value_usd": 102276.46,
-          "return_pct": 2.28,
-          "pre": false
-        },
-        {
-          "t": "2026-09-21",
-          "value_usd": 103550.17,
-          "return_pct": 3.55,
-          "pre": false
-        },
-        {
-          "t": "2026-09-22",
-          "value_usd": 104445.68,
-          "return_pct": 4.45,
-          "pre": false
-        },
-        {
-          "t": "2026-09-23",
-          "value_usd": 103507.46,
-          "return_pct": 3.51,
-          "pre": false
-        },
-        {
-          "t": "2026-09-28",
-          "value_usd": 103097.25,
-          "return_pct": 3.1,
-          "pre": false
-        },
-        {
-          "t": "2026-09-29",
-          "value_usd": 102222.78,
-          "return_pct": 2.22,
-          "pre": false
-        },
-        {
-          "t": "2026-09-30",
-          "value_usd": 100885.43,
-          "return_pct": 0.89,
-          "pre": false
-        },
-        {
-          "t": "2026-10-01",
-          "value_usd": 101452.17,
-          "return_pct": 1.45,
-          "pre": false
-        },
-        {
-          "t": "2026-10-02",
-          "value_usd": 102079.55,
-          "return_pct": 2.08,
-          "pre": false
-        },
-        {
-          "t": "2026-10-06",
-          "value_usd": 103628.69,
-          "return_pct": 3.63,
-          "pre": false
-        },
-        {
-          "t": "2026-10-07",
-          "value_usd": 102701.73,
-          "return_pct": 2.7,
-          "pre": false
-        },
-        {
-          "t": "2026-10-08",
-          "value_usd": 98990.27,
-          "return_pct": -1.01,
-          "pre": false
-        },
-        {
-          "t": "2026-10-12",
-          "value_usd": 96729.33,
-          "return_pct": -3.27,
-          "pre": false
-        },
-        {
-          "t": "2026-10-13",
-          "value_usd": 95397.14,
-          "return_pct": -4.6,
-          "pre": false
-        },
-        {
-          "t": "2026-10-14",
-          "value_usd": 94976.44,
-          "return_pct": -5.02,
-          "pre": false
-        },
-        {
-          "t": "2026-10-15",
-          "value_usd": 91169.91,
-          "return_pct": -8.83,
-          "pre": false
-        },
-        {
-          "t": "2026-10-16",
-          "value_usd": 94027.85,
-          "return_pct": -5.97,
-          "pre": false
-        },
-        {
-          "t": "2026-10-19",
-          "value_usd": 97985.67,
-          "return_pct": -2.01,
-          "pre": false
-        },
-        {
-          "t": "2026-10-20",
-          "value_usd": 93726.27,
-          "return_pct": -6.27,
-          "pre": false
-        },
-        {
-          "t": "2026-10-21",
-          "value_usd": 94985.23,
-          "return_pct": -5.01,
-          "pre": false
-        },
-        {
-          "t": "2026-10-22",
-          "value_usd": 92919.3,
-          "return_pct": -7.08,
-          "pre": false
-        },
-        {
-          "t": "2026-10-23",
-          "value_usd": 91484.31,
-          "return_pct": -8.52,
-          "pre": false
-        },
-        {
-          "t": "2026-10-26",
-          "value_usd": 89962.58,
-          "return_pct": -10.04,
-          "pre": false
-        },
-        {
-          "t": "2026-10-27",
-          "value_usd": 90348.99,
-          "return_pct": -9.65,
-          "pre": false
-        },
-        {
-          "t": "2026-10-28",
-          "value_usd": 93695.29,
-          "return_pct": -6.3,
-          "pre": false
-        },
-        {
-          "t": "2026-10-29",
-          "value_usd": 90379.3,
-          "return_pct": -9.62,
-          "pre": false
-        },
-        {
-          "t": "2026-10-29T21:34:44+00:00",
-          "value_usd": 90379.3,
-          "return_pct": -9.62,
-          "pre": false
-        }
-      ]
-    },
     {
       "code": "SA",
       "name": "Saudi Arabia",
@@ -981,9 +499,497 @@
           "pre": false
         },
         {
-          "t": "2026-10-29T21:34:44+00:00",
+          "t": "2026-10-30T01:36:56+00:00",
           "value_usd": 87894.12,
           "return_pct": -12.11,
+          "pre": false
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "name": "Korea",
+      "exchange": "KRX",
+      "start_date": "2026-07-27",
+      "value_usd": 87688.2,
+      "cost_usd": 100000,
+      "gain_usd": -12311.8,
+      "return_pct": -12.31,
+      "holdings": [
+        {
+          "bucket": "Tech",
+          "company": "Samsung Electronics",
+          "ticker": "005930.KS",
+          "currency": "KRW",
+          "shares": 115.4165,
+          "lock_price_usd": 173.2854,
+          "price_usd": 164.1269,
+          "value_usd": 18942.96,
+          "cost_usd": 20000.0,
+          "gain_usd": -1057.04,
+          "return_pct": -5.29
+        },
+        {
+          "bucket": "Boring",
+          "company": "Korea Electric (KEPCO)",
+          "ticker": "015760.KS",
+          "currency": "KRW",
+          "shares": 809.8288,
+          "lock_price_usd": 24.6966,
+          "price_usd": 21.086,
+          "value_usd": 17076.05,
+          "cost_usd": 20000.0,
+          "gain_usd": -2923.95,
+          "return_pct": -14.62
+        },
+        {
+          "bucket": "Commodity",
+          "company": "Korea Zinc",
+          "ticker": "010130.KS",
+          "currency": "KRW",
+          "shares": 28.4896,
+          "lock_price_usd": 702.0105,
+          "price_usd": 647.5347,
+          "value_usd": 18448.01,
+          "cost_usd": 20000.0,
+          "gain_usd": -1551.99,
+          "return_pct": -7.76
+        },
+        {
+          "bucket": "Consumer",
+          "company": "HYBE",
+          "ticker": "352820.KS",
+          "currency": "KRW",
+          "shares": 130.2924,
+          "lock_price_usd": 153.5008,
+          "price_usd": 117.3189,
+          "value_usd": 15285.77,
+          "cost_usd": 20000.0,
+          "gain_usd": -4714.23,
+          "return_pct": -23.57
+        },
+        {
+          "bucket": "Banking",
+          "company": "KB Financial Group",
+          "ticker": "105560.KS",
+          "currency": "KRW",
+          "shares": 84.9241,
+          "lock_price_usd": 117.7522,
+          "price_usd": 113.4307,
+          "value_usd": 9633.0,
+          "cost_usd": 10000.0,
+          "gain_usd": -367.0,
+          "return_pct": -3.67
+        },
+        {
+          "bucket": "Wildcard",
+          "company": "Hanwha Aerospace",
+          "ticker": "012450.KS",
+          "currency": "KRW",
+          "shares": 16.3047,
+          "lock_price_usd": 613.3211,
+          "price_usd": 509.2046,
+          "value_usd": 8302.41,
+          "cost_usd": 10000.0,
+          "gain_usd": -1697.59,
+          "return_pct": -16.98
+        }
+      ],
+      "history": [
+        {
+          "t": "2026-07-27",
+          "value_usd": 100092.19,
+          "return_pct": 0.09,
+          "pre": false
+        },
+        {
+          "t": "2026-07-28",
+          "value_usd": 91251.31,
+          "return_pct": -8.75,
+          "pre": false
+        },
+        {
+          "t": "2026-07-29",
+          "value_usd": 87470.89,
+          "return_pct": -12.53,
+          "pre": false
+        },
+        {
+          "t": "2026-07-30",
+          "value_usd": 89093.66,
+          "return_pct": -10.91,
+          "pre": false
+        },
+        {
+          "t": "2026-07-31",
+          "value_usd": 97278.94,
+          "return_pct": -2.72,
+          "pre": false
+        },
+        {
+          "t": "2026-08-03",
+          "value_usd": 95715.33,
+          "return_pct": -4.28,
+          "pre": false
+        },
+        {
+          "t": "2026-08-04",
+          "value_usd": 98147.34,
+          "return_pct": -1.85,
+          "pre": false
+        },
+        {
+          "t": "2026-08-05",
+          "value_usd": 100620.44,
+          "return_pct": 0.62,
+          "pre": false
+        },
+        {
+          "t": "2026-08-06",
+          "value_usd": 102767.68,
+          "return_pct": 2.77,
+          "pre": false
+        },
+        {
+          "t": "2026-08-07",
+          "value_usd": 101188.64,
+          "return_pct": 1.19,
+          "pre": false
+        },
+        {
+          "t": "2026-08-10",
+          "value_usd": 104399.58,
+          "return_pct": 4.4,
+          "pre": false
+        },
+        {
+          "t": "2026-08-11",
+          "value_usd": 103885.17,
+          "return_pct": 3.89,
+          "pre": false
+        },
+        {
+          "t": "2026-08-12",
+          "value_usd": 105294.41,
+          "return_pct": 5.29,
+          "pre": false
+        },
+        {
+          "t": "2026-08-13",
+          "value_usd": 105476.95,
+          "return_pct": 5.48,
+          "pre": false
+        },
+        {
+          "t": "2026-08-14",
+          "value_usd": 105360.35,
+          "return_pct": 5.36,
+          "pre": false
+        },
+        {
+          "t": "2026-08-18",
+          "value_usd": 104343.37,
+          "return_pct": 4.34,
+          "pre": false
+        },
+        {
+          "t": "2026-08-19",
+          "value_usd": 102150.38,
+          "return_pct": 2.15,
+          "pre": false
+        },
+        {
+          "t": "2026-08-20",
+          "value_usd": 106061.07,
+          "return_pct": 6.06,
+          "pre": false
+        },
+        {
+          "t": "2026-08-21",
+          "value_usd": 105668.83,
+          "return_pct": 5.67,
+          "pre": false
+        },
+        {
+          "t": "2026-08-24",
+          "value_usd": 107244.22,
+          "return_pct": 7.24,
+          "pre": false
+        },
+        {
+          "t": "2026-08-25",
+          "value_usd": 109543.75,
+          "return_pct": 9.54,
+          "pre": false
+        },
+        {
+          "t": "2026-08-26",
+          "value_usd": 110342.77,
+          "return_pct": 10.34,
+          "pre": false
+        },
+        {
+          "t": "2026-08-27",
+          "value_usd": 111243.1,
+          "return_pct": 11.24,
+          "pre": false
+        },
+        {
+          "t": "2026-08-28",
+          "value_usd": 110170.82,
+          "return_pct": 10.17,
+          "pre": false
+        },
+        {
+          "t": "2026-08-31",
+          "value_usd": 108503.18,
+          "return_pct": 8.5,
+          "pre": false
+        },
+        {
+          "t": "2026-09-01",
+          "value_usd": 107034.64,
+          "return_pct": 7.03,
+          "pre": false
+        },
+        {
+          "t": "2026-09-02",
+          "value_usd": 105144.83,
+          "return_pct": 5.14,
+          "pre": false
+        },
+        {
+          "t": "2026-09-03",
+          "value_usd": 107063.4,
+          "return_pct": 7.06,
+          "pre": false
+        },
+        {
+          "t": "2026-09-04",
+          "value_usd": 107277.35,
+          "return_pct": 7.28,
+          "pre": false
+        },
+        {
+          "t": "2026-09-07",
+          "value_usd": 110147.75,
+          "return_pct": 10.15,
+          "pre": false
+        },
+        {
+          "t": "2026-09-08",
+          "value_usd": 110818.37,
+          "return_pct": 10.82,
+          "pre": false
+        },
+        {
+          "t": "2026-09-09",
+          "value_usd": 110343.05,
+          "return_pct": 10.34,
+          "pre": false
+        },
+        {
+          "t": "2026-09-10",
+          "value_usd": 108949.34,
+          "return_pct": 8.95,
+          "pre": false
+        },
+        {
+          "t": "2026-09-11",
+          "value_usd": 108012.42,
+          "return_pct": 8.01,
+          "pre": false
+        },
+        {
+          "t": "2026-09-14",
+          "value_usd": 107459.94,
+          "return_pct": 7.46,
+          "pre": false
+        },
+        {
+          "t": "2026-09-15",
+          "value_usd": 103629.05,
+          "return_pct": 3.63,
+          "pre": false
+        },
+        {
+          "t": "2026-09-16",
+          "value_usd": 102348.34,
+          "return_pct": 2.35,
+          "pre": false
+        },
+        {
+          "t": "2026-09-17",
+          "value_usd": 102152.36,
+          "return_pct": 2.15,
+          "pre": false
+        },
+        {
+          "t": "2026-09-18",
+          "value_usd": 102276.46,
+          "return_pct": 2.28,
+          "pre": false
+        },
+        {
+          "t": "2026-09-21",
+          "value_usd": 103550.17,
+          "return_pct": 3.55,
+          "pre": false
+        },
+        {
+          "t": "2026-09-22",
+          "value_usd": 104445.68,
+          "return_pct": 4.45,
+          "pre": false
+        },
+        {
+          "t": "2026-09-23",
+          "value_usd": 103507.46,
+          "return_pct": 3.51,
+          "pre": false
+        },
+        {
+          "t": "2026-09-28",
+          "value_usd": 103097.25,
+          "return_pct": 3.1,
+          "pre": false
+        },
+        {
+          "t": "2026-09-29",
+          "value_usd": 102222.78,
+          "return_pct": 2.22,
+          "pre": false
+        },
+        {
+          "t": "2026-09-30",
+          "value_usd": 100885.43,
+          "return_pct": 0.89,
+          "pre": false
+        },
+        {
+          "t": "2026-10-01",
+          "value_usd": 101452.17,
+          "return_pct": 1.45,
+          "pre": false
+        },
+        {
+          "t": "2026-10-02",
+          "value_usd": 102079.55,
+          "return_pct": 2.08,
+          "pre": false
+        },
+        {
+          "t": "2026-10-06",
+          "value_usd": 103628.69,
+          "return_pct": 3.63,
+          "pre": false
+        },
+        {
+          "t": "2026-10-07",
+          "value_usd": 102701.73,
+          "return_pct": 2.7,
+          "pre": false
+        },
+        {
+          "t": "2026-10-08",
+          "value_usd": 98990.27,
+          "return_pct": -1.01,
+          "pre": false
+        },
+        {
+          "t": "2026-10-12",
+          "value_usd": 96729.33,
+          "return_pct": -3.27,
+          "pre": false
+        },
+        {
+          "t": "2026-10-13",
+          "value_usd": 95397.14,
+          "return_pct": -4.6,
+          "pre": false
+        },
+        {
+          "t": "2026-10-14",
+          "value_usd": 94976.44,
+          "return_pct": -5.02,
+          "pre": false
+        },
+        {
+          "t": "2026-10-15",
+          "value_usd": 91169.91,
+          "return_pct": -8.83,
+          "pre": false
+        },
+        {
+          "t": "2026-10-16",
+          "value_usd": 94027.85,
+          "return_pct": -5.97,
+          "pre": false
+        },
+        {
+          "t": "2026-10-19",
+          "value_usd": 97985.67,
+          "return_pct": -2.01,
+          "pre": false
+        },
+        {
+          "t": "2026-10-20",
+          "value_usd": 93726.27,
+          "return_pct": -6.27,
+          "pre": false
+        },
+        {
+          "t": "2026-10-21",
+          "value_usd": 94985.23,
+          "return_pct": -5.01,
+          "pre": false
+        },
+        {
+          "t": "2026-10-22",
+          "value_usd": 92919.3,
+          "return_pct": -7.08,
+          "pre": false
+        },
+        {
+          "t": "2026-10-23",
+          "value_usd": 91484.31,
+          "return_pct": -8.52,
+          "pre": false
+        },
+        {
+          "t": "2026-10-26",
+          "value_usd": 89962.58,
+          "return_pct": -10.04,
+          "pre": false
+        },
+        {
+          "t": "2026-10-27",
+          "value_usd": 90348.99,
+          "return_pct": -9.65,
+          "pre": false
+        },
+        {
+          "t": "2026-10-28",
+          "value_usd": 93695.29,
+          "return_pct": -6.3,
+          "pre": false
+        },
+        {
+          "t": "2026-10-29",
+          "value_usd": 90277.48,
+          "return_pct": -9.72,
+          "pre": false
+        },
+        {
+          "t": "2026-10-30",
+          "value_usd": 87688.2,
+          "return_pct": -12.31,
+          "pre": false
+        },
+        {
+          "t": "2026-10-30T01:36:56+00:00",
+          "value_usd": 87688.2,
+          "return_pct": -12.31,
           "pre": false
         }
       ]
